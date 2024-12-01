@@ -1,2 +1,3 @@
-# dot-files
-Configuration for dot files in MacOs or Linux
+# DOT-FILES
+
+my custom dot-files for MacOS and Linux
